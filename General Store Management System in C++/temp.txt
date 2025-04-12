@@ -1,0 +1,18 @@
+RECEIPT
+-------------------------------
+Item: juice
+Quantity: 2
+Unit Price: 1
+Total: 2
+-------------------------------
+Item: paper
+Quantity: 2
+Unit Price: 2
+Total: 4
+-------------------------------
+Item: water
+Quantity: 3
+Unit Price: 5
+Total: 15
+-------------------------------
+Total Purchase Amount: $21

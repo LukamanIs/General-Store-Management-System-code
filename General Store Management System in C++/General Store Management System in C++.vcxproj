@@ -130,8 +130,8 @@
     <ClCompile Include="General Store Management System in C++.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\data.txt.txt" />
-    <Text Include="..\temp.txt.txt" />
+    <Text Include="data.txt" />
+    <Text Include="temp.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
